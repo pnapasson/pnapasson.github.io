@@ -425,7 +425,7 @@ header.scrolled {
   text-decoration: none;
   cursor: pointer;
   transition: all 0.2s ease;
-  border-radius: 50%;
+  border-radius: 0px;
   min-width: 120px;
 }
 
@@ -576,7 +576,7 @@ header.scrolled {
   padding: 8px var(--space-lg);
   cursor: pointer;
   transition: all 0.2s ease;
-  border-radius: 50%;
+  border-radius: 0px;
 }
 
 .filter-btn:hover {
@@ -928,7 +928,7 @@ textarea.form-input {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50%;
+  border-radius: 0px;
   transition: background-color 0.2s ease, color 0.2s ease;
   z-index: 10;
 }
